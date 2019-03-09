@@ -9,7 +9,7 @@ There are ten questions with their answers related to basic concepts in MongoDB
 {       
 "name": "John",       
 "dateOfBirth": "1990-01-01T00:00:00Z",       
-"subjects": ["Application frameworks", "Computer architecture"] 
+"subjects": [ "Application frameworks", "Computer architecture" ] 
 } 
 
 ● We always make sure to add dates in MongoDB as a UTC date since MongoDB by default deals with UTC timezone and format.
