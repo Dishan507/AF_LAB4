@@ -1,5 +1,5 @@
 # AF_LAB4
-There are ten questions with their answers related to basic concepts in MongoDB/
+There are ten questions with their answers related to basic concepts in MongoDB
 
 1. Start MongoDB instance locally by issuing the following command inside the bin folder inside MongoDB installation directory.
 
